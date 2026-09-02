@@ -1,0 +1,12 @@
+# Required libraries for Group93_UDL_Assignment_1_final.ipynb
+# Install with:  pip install -r requirements.txt
+
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+tensorflow          # provides tensorflow.keras (keras, layers)
+ipython             # provides IPython.display.display
+
+# Standard-library modules used (no install needed): io, time, warnings
